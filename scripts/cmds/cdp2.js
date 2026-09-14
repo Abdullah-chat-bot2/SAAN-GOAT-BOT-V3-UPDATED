@@ -8,9 +8,9 @@ module.exports = {
     name: "coupledp2",
     aliases: ["cdp2", "k-pop"],
     version: "2.1",
-    author: "Siam Ahmed Saan",
+    author: "𝐒𝐈𝐀𝐌 𝐀𝐇𝐌𝐄𝐃 𝐒𝐀𝐀𝐍",
     description: "Random K-Pop Matching Couple DP",
-    category: "FUN",
+    category: "FUN & SOCIAL",
     cooldown: 5,
     guide: {
       en: "{pn} - Random K-Pop Couple DP\n{pn} list - Show total available Couple DPs"
